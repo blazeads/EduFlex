@@ -103,3 +103,4 @@ EduFlex is released under the [MIT License](LICENSE). You are free to use, modif
 For any inquiries, suggestions, or issues, reach out to:
 - Uwami Mgxekwa: uwami@example.com
 - Sthe Immaculate: sthe@example.com
+- (Please delete this line)
